@@ -152,6 +152,9 @@ div.video {
     margin-bottom: 30px;
     margin: 0px -20px 30px -20px;
     padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     padding-bottom: 10% ;
     position: relative;
 }
